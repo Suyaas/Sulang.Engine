@@ -1,0 +1,33 @@
+<mxfile host="Electron" modified="2024-02-20T09:45:58.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.15 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="Gs8IpgxqjeYm04ZVstOA" version="22.1.15" type="device">
+  <diagram name="第 1 页" id="FXDetXWcQOXU_7okOpMp">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F1A9V17sNYWADANSnjkG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1A9V17sNYWADANSnjkG-1" target="F1A9V17sNYWADANSnjkG-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-1" value="UI操作&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1A9V17sNYWADANSnjkG-4" target="F1A9V17sNYWADANSnjkG-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-4" value="Su Code&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="F1A9V17sNYWADANSnjkG-5" target="F1A9V17sNYWADANSnjkG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-5" value="IL/ASM&amp;nbsp; &amp;nbsp;&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F1A9V17sNYWADANSnjkG-7" value="EXE/DLL" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
